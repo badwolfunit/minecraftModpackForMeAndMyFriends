@@ -1,0 +1,26 @@
+{
+	id: "643B526C751AAFA2"
+	order_index: 1
+	title: "Rarities"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:nether_star" }
+		{ item: "minecraft:totem_of_undying" }
+		{ item: "minecraft:heart_of_the_sea" }
+		{ item: "minecraft:conduit" }
+		{ item: "minecraft:beacon" }
+		{ item: "minecraft:enchanted_golden_apple", weight: 2 }
+		{ item: "enchantinginfuser:advanced_enchanting_infuser" }
+		{ item: "minecraft:spyglass" }
+		{ item: "minecraft:clock" }
+	]
+	loot_crate: {
+		color: 16777215
+		string_id: "rarities"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

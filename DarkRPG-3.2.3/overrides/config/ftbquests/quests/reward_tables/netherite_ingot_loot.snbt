@@ -1,0 +1,16 @@
+{
+	id: "6D04A0F091E6E537"
+	order_index: 40
+	title: "Netherite Ingot Loot"
+	loot_size: 1
+	rewards: [{ item: "minecraft:netherite_ingot", count: 3 }]
+	loot_crate: {
+		color: 16777215
+		string_id: "netherite_ingot_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

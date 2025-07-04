@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"#I#",
+		"ORO"
+	],
+	"key": {
+		"I": {"item": "minecraft:lapis_lazuli"},
+		"#": {"item": "minecraft:seagrass"},
+		"R": {"item": "minecraft:redstone_block"},
+		"O": {"item": "minecraft:enchanted_golden_apple"}
+		},
+	"result": {
+		"item": "minecraft:sculk_sensor"
+	}
+}

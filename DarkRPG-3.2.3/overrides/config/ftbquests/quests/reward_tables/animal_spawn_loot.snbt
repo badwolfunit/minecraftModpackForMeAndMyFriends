@@ -1,0 +1,22 @@
+{
+	id: "73793AEC34CB9D0A"
+	order_index: 35
+	title: "Animal Spawn Loot"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:sheep_spawn_egg" }
+		{ item: "minecraft:cow_spawn_egg" }
+		{ item: "minecraft:pig_spawn_egg" }
+		{ item: "minecraft:horse_spawn_egg" }
+		{ item: "minecraft:chicken_spawn_egg" }
+	]
+	loot_crate: {
+		color: 16777215
+		string_id: "animal_spawn_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

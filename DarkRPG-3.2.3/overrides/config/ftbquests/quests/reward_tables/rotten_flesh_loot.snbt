@@ -1,0 +1,16 @@
+{
+	id: "7501FDDB7B01B73D"
+	order_index: 14
+	title: "Rotten Flesh Loot"
+	loot_size: 1
+	rewards: [{ item: "minecraft:diamond" }]
+	loot_crate: {
+		color: 16777215
+		string_id: "rotten_flesh_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

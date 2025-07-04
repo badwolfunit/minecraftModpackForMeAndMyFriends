@@ -1,0 +1,7 @@
+{
+	id: "0CAF35A22BD8B436"
+	order_index: 18
+	title: "Gravel"
+	loot_size: 1
+	rewards: [{ item: "minecraft:gravel", count: 16 }]
+}

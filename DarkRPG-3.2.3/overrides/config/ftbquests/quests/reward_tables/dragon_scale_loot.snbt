@@ -1,0 +1,16 @@
+{
+	id: "75A814CE6B7AC87D"
+	order_index: 30
+	title: "Dragon Scale Loot"
+	loot_size: 1
+	rewards: [{ item: "dragonloot:dragon_scale" }]
+	loot_crate: {
+		color: 16777215
+		string_id: "dragon_scale_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	id: "3C0C2127479AEBA1"
+	order_index: 44
+	title: "Things Loot"
+	loot_size: 1
+	rewards: [
+		{ item: "things:recall_potion" }
+		{
+			item: {
+				id: "things:container_key"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "things:bater_wucket" }
+		{ item: "things:ender_pouch" }
+		{ item: "things:monocle" }
+		{ item: "things:moss_necklace" }
+		{ item: "things:placebo" }
+		{ item: "things:mining_gloves", weight: 2 }
+		{ item: "things:riot_gauntlet", weight: 2 }
+		{ item: "things:hades_crystal" }
+		{ item: "things:enchanted_wax_gland" }
+		{ item: "things:item_magnet" }
+		{ item: "things:rabbit_foot_charm" }
+		{ item: "things:luck_of_the_irish" }
+		{
+			item: {
+				id: "things:socks"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "things:arm_extender" }
+		{ item: "things:shock_absorber" }
+		{ item: "things:broken_watch" }
+		{ item: "minecraft:oak_planks", count: 5, weight: 60 }
+	]
+}

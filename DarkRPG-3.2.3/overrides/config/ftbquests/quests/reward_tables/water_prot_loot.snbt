@@ -1,0 +1,27 @@
+{
+	id: "6D1EA33A5E391E90"
+	order_index: 36
+	title: "Water Prot Loot"
+	loot_size: 1
+	rewards: [{
+		item: {
+			id: "minecraft:enchanted_book"
+			Count: 1b
+			tag: {
+				StoredEnchantments: [{
+					id: "origins:water_protection"
+					lvl: 4s
+				}]
+			}
+		}
+	}]
+	loot_crate: {
+		color: 16777215
+		string_id: "water_prot_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

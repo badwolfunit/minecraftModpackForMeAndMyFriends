@@ -1,0 +1,16 @@
+{
+	id: "0983F896F6010C69"
+	order_index: 31
+	title: "Copper Loot"
+	loot_size: 1
+	rewards: [{ item: "minecraft:copper_ingot", count: 9 }]
+	loot_crate: {
+		color: 16777215
+		string_id: "copper_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

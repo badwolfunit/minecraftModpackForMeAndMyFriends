@@ -1,0 +1,22 @@
+{
+	id: "0BEF4CBCDE6AA107"
+	order_index: 29
+	title: "Storage Loot"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:shulker_box" }
+		{ item: "minecraft:light_blue_shulker_box" }
+		{ item: "expandedstorage:pumpkin_chest" }
+		{ item: "backpackmod:copper_backpack" }
+		{ item: "minecraft:chest" }
+	]
+	loot_crate: {
+		color: 16777215
+		string_id: "storage_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

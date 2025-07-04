@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"#O#",
+		"###"
+	],
+	"key": {
+		"#": {"item": "minecraft:seagrass"},
+		"O": {"item": "minecraft:red_dye"}
+		},
+	"result": {
+		"item": "minecraft:fire_coral",
+		"count": 2
+	}
+}

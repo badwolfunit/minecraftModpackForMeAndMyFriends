@@ -1,0 +1,7 @@
+{
+	id: "7DED2236198D20C9"
+	order_index: 24
+	title: "Soul Soil"
+	loot_size: 1
+	rewards: [{ item: "minecraft:soul_soil", count: 16 }]
+}

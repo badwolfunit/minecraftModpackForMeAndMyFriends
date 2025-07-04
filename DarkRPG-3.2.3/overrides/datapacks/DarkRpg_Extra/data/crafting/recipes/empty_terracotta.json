@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"#O#",
+		"###"
+	],
+	"key": {
+		"#": {"tag": "terracotta"},
+		"O": {"item": "minecraft:water_bucket",
+		"remainder": { "item": "minecraft:bucket" }}
+		
+		},
+	"result": {
+		"item": "minecraft:terracotta",
+		"count": 8
+	}
+}

@@ -1,0 +1,73 @@
+{
+	id: "52D8341CA7DA3AD6"
+	order_index: 5
+	title: "Hard Loot"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:strong_swiftness"
+				}
+			}
+			count: 5
+			weight: 5
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:strong_regeneration"
+				}
+			}
+			count: 5
+			weight: 5
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:long_slow_falling"
+				}
+			}
+			count: 5
+			weight: 5
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:strong_healing"
+				}
+			}
+			count: 5
+			weight: 5
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:strong_strength"
+				}
+			}
+			count: 5
+			weight: 5
+		}
+		{ item: "minecraft:diamond_ore", count: 10, weight: 2 }
+	]
+	loot_crate: {
+		color: 16777215
+		string_id: "hard_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

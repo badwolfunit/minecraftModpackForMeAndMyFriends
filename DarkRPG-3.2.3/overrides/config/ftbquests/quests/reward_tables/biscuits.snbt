@@ -1,0 +1,22 @@
+{
+	id: "7F701279C1D2999F"
+	order_index: 2
+	title: "Biscuits"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:lapis_lazuli" }
+		{ item: "minecraft:lapis_ore", weight: 2 }
+		{ item: "minecraft:golden_carrot" }
+		{ item: "minecraft:music_disc_stal" }
+		{ item: "minecraft:jukebox" }
+	]
+	loot_crate: {
+		color: 16777215
+		string_id: "biscuits"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}

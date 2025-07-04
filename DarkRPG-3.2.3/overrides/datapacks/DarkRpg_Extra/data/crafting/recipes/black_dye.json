@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"tag": "coals"}
+	],
+	"result": {
+		"item": "minecraft:black_dye"
+	}
+}

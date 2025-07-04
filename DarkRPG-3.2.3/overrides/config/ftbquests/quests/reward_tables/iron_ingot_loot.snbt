@@ -1,0 +1,16 @@
+{
+	id: "312BD4502810AFA5"
+	order_index: 34
+	title: "Iron Ingot Loot"
+	loot_size: 1
+	rewards: [{ item: "minecraft:iron_ingot", count: 20 }]
+	loot_crate: {
+		color: 16777215
+		string_id: "iron_ingot_loot"
+		drops: {
+			passive: 0
+			boss: 0
+			monster: 0
+		}
+	}
+}
