@@ -1,7 +1,0 @@
-{
-	id: "62F7F9C033472FB1"
-	order_index: 21
-	title: "Dead Bush"
-	loot_size: 1
-	rewards: [{ item: "minecraft:dead_bush", count: 16 }]
-}

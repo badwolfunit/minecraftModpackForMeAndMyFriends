@@ -1,7 +1,0 @@
-{
-	chapter_groups: [
-		{ id: "22F9AE7C70919B0B", title: "Main Storyline" }
-		{ id: "6BAD494E7F5F7840", title: "Extras" }
-		{ id: "378FEBA941557AD3", title: "Repeatable" }
-	]
-}

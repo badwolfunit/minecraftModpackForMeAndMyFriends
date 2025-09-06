@@ -1,7 +1,0 @@
-{
-	id: "432A4B58EF66FEDA"
-	order_index: 16
-	title: "Dirt"
-	loot_size: 1
-	rewards: [{ item: "minecraft:dirt", count: 16 }]
-}

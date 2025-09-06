@@ -1,9 +1,0 @@
-{
-	"type": "crafting_shapeless",
-	"ingredients": [
-		{"item": "minecraft:mushroom_stem"}
-	],
-	"result": {
-		"item": "minecraft:calcite"
-	}
-}

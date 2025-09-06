@@ -1,7 +1,0 @@
-{
-	id: "4B2561DCAE45DB55"
-	order_index: 26
-	title: "Amethyst"
-	loot_size: 1
-	rewards: [{ item: "minecraft:budding_amethyst" }]
-}

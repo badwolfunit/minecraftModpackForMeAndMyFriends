@@ -1,7 +1,0 @@
-{
-	id: "7C7B555905586257"
-	order_index: 17
-	title: "Sand"
-	loot_size: 1
-	rewards: [{ item: "minecraft:sand", count: 16 }]
-}
